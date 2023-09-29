@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jcesclusa
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python, financial modelling. 
-- 📫 You can reach me @jcesclusa
+- 🌱 I’m currently learning python and ML
 
 <!---
 jcesclusa/jcesclusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
